@@ -16,5 +16,6 @@ public class TestRun {
 		t.start();
 		
 		f.setVisible(true);
+		//test
 	}
 }
